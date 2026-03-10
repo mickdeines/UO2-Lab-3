@@ -1,4 +1,4 @@
-Operating Feed Pressure (bar),?Pavg                                    (bar),Permeate flow rate (L/hr),Derived permeate flow rate N                                               (L/hr),Permeate Concentration                               (g/L),Concentration Polarization,Recovery Rate,Salt Rejection
+Feed Pressure,TMP,Permeate flow rate,N,Permeate Concentration,CP,Recovery Rate,Salt Rejection
 5,4.5000000000000000,#REF!,9.5000000000000000,0.0000000000000000,-0.0033927056827821,0.0288315629742033,1.0000000000000000
 11.5,10.5000000000000000,#REF!,19.5000000000000000,0.0000000000000000,0.0020664714999139,0.0364826941066417,1.0000000000000000
 14.2,13.3000000000000000,#REF!,25.0000000000000000,0.0000000000000000,0.0044897254360215,0.0555555555555556,1.0000000000000000
